@@ -1,5 +1,9 @@
 package com.Assignment1;
 
+
+/*
+ * Write a program(WAP) to print INEURON using pattern programming logic.
+ */
 public class Assignment1_Question1 
 {
 

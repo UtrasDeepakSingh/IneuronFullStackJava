@@ -1,5 +1,14 @@
 package com.Assignment1;
 
+
+
+/*
+ * Write a program to print
+ *	1 1 1 1
+ *	2 2 2 2
+ *	3 3 3 3
+ *	4 4 4 4
+ */
 public class Assignment1_Question2 
 {
 

@@ -13,8 +13,12 @@ public class Assignment2_Question6
 	{ 
 		boolean isSubset=true;
 		
-		Arrays.parallelSort(parent);		//sorting both arrays
-		Arrays.parallelSort(subset);
+		Assignment2_Question3 assignment2_Question3 = new Assignment2_Question3();
+		
+		assignment2_Question3.bubbleSortAlgorithm(parent);			
+		assignment2_Question3.bubbleSortAlgorithm(subset);
+		
+
 	
 		for(int x :subset)
 		{

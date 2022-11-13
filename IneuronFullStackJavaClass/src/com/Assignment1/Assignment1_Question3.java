@@ -1,5 +1,25 @@
 package com.Assignment1;
 
+
+
+/*
+ *  WAP to print
+ 
+***********
+***** *****
+****   ****
+***     ***
+**       **
+*         *
+*         *
+*         *
+*         *
+*         *
+***********
+
+ */
+
+
 public class Assignment1_Question3
 {
 
